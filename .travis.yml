@@ -1,0 +1,8 @@
+language: c
+os: freebsd
+
+install:
+  - true
+
+script:
+  - true
